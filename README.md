@@ -176,11 +176,11 @@ with a good walker's track and play area for children. Nice place to take a dail
 ``````
 ## OUTPUT
 ![Alt text](1.png)
-[Alt text](2.png)
-![Alt text](3.png)
-![Alt text](4.png)
 ![Alt text](5.png)
 ![Alt text](6.png)
+![Alt text](2.png)
+![Alt text](4.png)
+![Alt text](3.png)
 
 ## RESULT
 The program for implementing image maps using HTML is executed successfully.
