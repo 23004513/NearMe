@@ -175,10 +175,11 @@ with a good walker's track and play area for children. Nice place to take a dail
 
 ``````
 ## OUTPUT
-[A![Alt text](2.png)lt text](1.png)
+[Alt text](2.png)
 ![Alt text](3.png)
 ![Alt text](4.png)
 ![Alt text](5.png)
+![Alt text](1.png)
 ![Alt text](6.png)
 
 ## RESULT
